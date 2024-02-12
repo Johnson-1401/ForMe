@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    font-family: 'Brush Script MT', cursive;
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button {
+    width: 45%;
+}
+
+#myImage {
+    height: 250px;
+}
+
+#yes {
+    background-color:rgb(255, 65, 198);
+    color: White;
+}
